@@ -1,5 +1,4 @@
 # TerraWeek
-<<<<<<< HEAD
 TerraWeek Challenge by TWS Community Builders is a 7 Day challenge which will be starting on 5th June and ending on 11th June at 11:59 P.M IST.
 # TerraWeekChallenge
 Welcome to the Terraweek Challenge! 🚀
@@ -31,4 +30,4 @@ Documentation: Refer to our comprehensive documentation for in-depth explanation
 Community: Join the Terraform community to connect with experts, ask questions, and share your knowledge.
 Contribute to the Challenge
 Help us build a valuable resource hub by contributing your Terraform guides, examples, or resources through pull requests.
->>>>>>> 0bfba97989ec5ca17e706ce4a1a534c40e631d1b
+
